@@ -1,0 +1,7 @@
+{
+  "name": "DepaRouting",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
